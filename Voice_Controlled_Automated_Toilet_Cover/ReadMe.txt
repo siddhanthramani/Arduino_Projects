@@ -5,8 +5,8 @@ It is filled with germs which only needs microseconds to get transferred to your
 Anyways, it makes sense to NOT have a deluge of germs on your body every day.
 For this, I prototyped a voice controlled toilet seat lifter which allows you to open and close the seat using simple voice commands.
 
-Like every idea, I thought this was unique but it turns out that "smart-toilets" already exist. I am still proud to have noticed a very common problem which 
-millions oversee everyday and to have a prototyped a good solution for that. 
+Like every idea, I thought this was unique but it turns out that "smart-toilets" already exist. I am still proud to have noticed a very 
+common problem which millions oversee everyday and to have a prototyped a good solution for that. 
 
 Feel free to use the code which, btw, has nothing byzantine in it.
 I have used IFTTT, BLYNK and the nodemcu board.
