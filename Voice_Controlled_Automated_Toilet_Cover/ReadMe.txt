@@ -15,7 +15,6 @@ P.S.
 Have attached a video of the prototype working. The reaction time and the prototype are slighlty bad due to poor data and even more 
 shoddy model building skills. The electronics part would work great though as I am adept in that. 
 
-Have a good day! :)
 
 
 
